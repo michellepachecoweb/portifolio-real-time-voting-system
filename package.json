@@ -1,5 +1,5 @@
 {
-  "name": "portifolio-real-time-voting-system",
+  "name": "real-time-voting-system-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
